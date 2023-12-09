@@ -12,6 +12,7 @@ Front end: HTML, CSS , Bootstrap, Javascript, Jquery
 Back end: Python(Django) 
 
 Database: PostgreSQL 
+
 Tools: PgMyadmin
 
 System WorkFlow:
