@@ -7,15 +7,11 @@ The design and implementation of various well-known data mining techniques in a 
 
 Programming Languages Used:
 
-
 Front end: HTML, CSS , Bootstrap, Javascript, Jquery 
-
 
 Back end: Python(Django) 
 
-
 Database: PostgreSQL 
-
 Tools: PgMyadmin
 
 System WorkFlow:
