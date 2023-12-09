@@ -24,7 +24,7 @@ System WorkFlow:
 
 Steps To Run the Project:
 
-step1:Install all modules in requirement.txt file
+step1:Install all modules in requirements.txt file
 
 step2:In cmd type python manage.py makemigrations
 
