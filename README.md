@@ -20,3 +20,24 @@ System WorkFlow:
 
 
 ![pic3](https://github.com/DivyaVaishnaviVenkatesh/MyWellness-Diseases-Prediction-App/assets/123964776/17622673-57ff-4127-9d31-4dcfce2d42d5)
+
+
+Steps To Run the Project:
+
+step1:Install all modules in requirement.txt file
+
+step2:In cmd type python manage.py makemigrations
+
+step3:Next command is python manage.py migrate
+
+step4:python manage.py runserver
+
+step5:Copy the url and run in Chrome 
+
+ScreenShots:
+
+
+![Output2](https://github.com/DivyaVaishnaviVenkatesh/MyWellness-Diseases-Prediction-App/assets/123964776/c6743286-8937-47bb-b68c-0fbc53059aaf)
+
+
+![output4](https://github.com/DivyaVaishnaviVenkatesh/MyWellness-Diseases-Prediction-App/assets/123964776/b5f19b2c-f8b7-4675-bfaf-fead00d51c8f)
