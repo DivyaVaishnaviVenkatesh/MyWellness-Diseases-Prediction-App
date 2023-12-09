@@ -9,4 +9,8 @@ Back end: Python(Django)
 Database: PostgreSQL 
 Tools: PgMyadmin
 
-System WorkFlow:![pic3](https://github.com/DivyaVaishnaviVenkatesh/MyWellness-Diseases-Prediction-App/assets/123964776/17622673-57ff-4127-9d31-4dcfce2d42d5)
+System WorkFlow:
+
+
+
+![pic3](https://github.com/DivyaVaishnaviVenkatesh/MyWellness-Diseases-Prediction-App/assets/123964776/17622673-57ff-4127-9d31-4dcfce2d42d5)
